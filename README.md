@@ -1,14 +1,14 @@
-### Project Overview: Global Superstore Dashboard
+# Project Overview: Global Superstore Dashboard
 
-#### Introduction
+## Introduction
 The project involves creating an interactive and insightful dashboard for a fictional company, Global Superstore, using a dataset obtained from Kaggle.com. The primary goal is to transform raw data into meaningful business insights, allowing stakeholders to make informed, data-driven decisions.
 
-#### Objectives
+## Objectives
 1. **Data Cleaning**: Ensure the dataset is clean and free from errors or inconsistencies.
 2. **Data Transformation**: Structure the data to facilitate analysis and visualization.
 3. **Data Visualization**: Present key business metrics and insights through an interactive dashboard.
 
-#### Data Cleaning and Transformation using Power Query Editor
+## Data Cleaning and Transformation using Power Query Editor
 
 1. **Remove Columns**:
    - **Objective**: Remove unnecessary columns that do not contribute to the analysis.
@@ -34,7 +34,7 @@ The project involves creating an interactive and insightful dashboard for a fict
    - **Objective**: Filter out unnecessary data, focusing only on relevant information.
    - **Implementation**: Data was filtered to include only transactions from the past five years using the 'Filter Rows' functionality in Power Query Editor.
 
-#### Data Analysis and Visualization using Power BI
+## Data Analysis and Visualization using Power BI
 
 The clean and transformed data was then used to create a comprehensive dashboard in Power BI with the following features:
 
@@ -53,12 +53,12 @@ The clean and transformed data was then used to create a comprehensive dashboard
    - **Order Processing Time**: Analysis of order processing times to identify bottlenecks using line charts and histograms.
    - **Shipping Performance**: Evaluation of shipping times and performance by region using bar charts and maps.
 
-#### Tools and Technologies
+## Tools and Technologies
 
 - **Data Cleaning and Transformation**: Power Query Editor
 - **Data Visualization**: Power BI for creating interactive dashboards
 - **Data Source**: Global Superstore dataset from Kaggle
 
-#### Conclusion
+## Conclusion
 
 The creation of the Global Superstore Dashboard involved meticulous data cleaning and transformation processes using Power Query Editor to ensure data accuracy and reliability. The final dashboard, developed in Power BI, provides an interactive and comprehensive view of the company's performance, allowing stakeholders to make informed decisions based on real-time data insights. This project showcases the importance of data preprocessing and the power of data visualization in driving business success.
